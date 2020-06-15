@@ -29,3 +29,4 @@ names = get_names(file_name)
 names = sorted(names)
 
 print(get_result(names))
+# Ответ - 871853874
